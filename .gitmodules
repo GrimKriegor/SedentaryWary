@@ -1,0 +1,6 @@
+[submodule "Arduino-Makefile"]
+	path = Arduino-Makefile
+	url = https://github.com/sudar/Arduino-Makefile.git
+[submodule "libraries/Timer"]
+	path = libraries/Timer
+	url = https://github.com/JChristensen/Timer.git
